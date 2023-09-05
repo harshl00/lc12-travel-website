@@ -269,7 +269,7 @@ video {
   bottom: 0.5%;
   right: 0;
   z-index: 100;
-  background-color: var(--white);
+  background-color: transparent;
   width: 30rem;
   padding: 2rem;
   justify-content: center;
