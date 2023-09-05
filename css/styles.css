@@ -308,8 +308,8 @@ video {
 @media (max-width: 768px) {
   .header .swiper-next,
   .header .swiper-prev {
-    width: 6rem;
-    height: 6rem;
+    width: 2rem;
+    height: 2rem;
   }
 }
 
