@@ -129,8 +129,8 @@ video {
 }
 
 .logo img {
-  width: 10rem;
-  height: 10rem;
+  width: 125px;
+  height: 80px;
 }
 
 .nav-item:not(:last-child) {
