@@ -841,7 +841,15 @@ video {
   z-index: 999999;
   background-color: var(--white);
 }
+.h21{
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position:relative;
+  bottom:65px;
+  left:-70px;
+  right:100px;
 
+}
 .loader img {
   width: 20rem;
   height: 20rem;
